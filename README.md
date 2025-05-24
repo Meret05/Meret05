@@ -96,7 +96,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Meret05/Meret05/output/snake.svg" alt="Snake animation" />
-
-###
